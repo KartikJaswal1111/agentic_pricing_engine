@@ -1,0 +1,22 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Vector store persistence (regenerated, not source)
+pricing_chroma_*/
+*.sqlite3
+
+# macOS zip-extraction cruft (not project content)
+__MACOSX/
+._*
+
+# Editors
+.vscode/

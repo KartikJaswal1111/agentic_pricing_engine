@@ -1,0 +1,4 @@
+# Dependencies are added here only when a capability is actually ported into src/,
+# not pre-emptively. Assignment 1 (baseline prompting) will need at least:
+#   langchain
+#   langchain-groq
