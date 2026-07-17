@@ -1,4 +1,4 @@
-"""Composition root for the Pricing Agent Platform.
+"""Composition root for Agentic Pricing Platform.
 
 Menu items map 1:1 to capabilities in src/pricing_agent/agents/. A capability is
 added here only after its ADR is written and its notebook logic has been ported —
@@ -17,7 +17,7 @@ def main():
         print("No capabilities ported yet. See README.md workflow: notebook -> ADR -> src/ -> app.py.")
         return
 
-    print("Pricing Agent Platform")
+    print("Agentic Pricing Platform")
     for key, (label, _) in CAPABILITIES.items():
         print(f"  {key}. {label}")
 

@@ -1,4 +1,6 @@
-# Pricing Agent Platform
+# Agentic Pricing Platform
+
+_(GitHub repo: `agentic_pricing_agent`)_
 
 A single, evolving Pricing Agent, built one course assignment at a time. Each assignment
 in the Agentic AI course adds a capability to the same conceptual product instead of
